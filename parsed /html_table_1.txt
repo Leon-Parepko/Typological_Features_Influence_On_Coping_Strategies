@@ -1,0 +1,1729 @@
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="293">
+<p>1. Мне нравится заниматься физкультурой</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не люблю физические нагрузки</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>2. Люди считают меня отзывчивым и доброжелательным человеком</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Некоторые люди считают меня холодным и черствым</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>3. Я во всем ценю чистоту и порядок</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Иногда я позволяю себе быть неряшливым</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>4. Меня часто беспокоит мысль, что что-нибудь может случиться</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>«Мелочи жизни» меня не тревожат</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>5. Все новое вызывает у меня интерес</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Часто новое вызывает у меня раздражение</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>6. Если я ничем не занят, то это меня беспокоит</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я человек спокойный и не люблю суетиться</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>7. Я стараюсь проявлять дружелюбие ко всем людям</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не всегда и не со всеми дружелюбный человек</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>8. Моя комната всегда аккуратно прибрана</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не очень стараюсь следить за чистотой и порядком</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>9. Иногда я расстраиваюсь из-за пустяков</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не обращаю внимания на мелкие проблемы</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>10. Мне нравятся неожиданности</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я люблю предсказуемость событий</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>11. Я не могу долго оставаться в неподвижности</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Мне не нравится быстрый стиль жизни</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>12. Я тактичен по отношения к другим людям</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Иногда в шутку я задеваю самолюбие других</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>13. Я методичен и пунктуален во всем</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не очень обязательный человек</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>14. Мои чувства легко уязвимы и ранимы</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я редко тревожусь и редко чего-либо боюсь</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>15. Мне не интересно, когда ответ ясен заранее</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не интересуюсь вещами, которые мне не понятны</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>16. Я люблю, чтобы другие быстро выполняли мои распоряжения</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не спеша выполняю чужие распоряжения</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>17. Я уступчивый и склонный к компромиссам человек</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я люблю поспорить с окружающими</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>18. Я проявляю настойчивость, решая трудную задачу</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не очень настойчивый человек</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>19. В трудных ситуациях я весь сжимаюсь от напряжения</p>
+</td>
+<td valign="top" width="25">
+<p align="center"><em>-2</em></p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я могу расслабиться в любой ситуации</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>20. У меня очень живое воображение</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я всегда предпочитаю реально смотреть на мир</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>21. Мне часто приходится быть лидером, проявлять инициативу</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я скорее подчиненный, чем лидер</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>22. Я всегда готов оказать помощь и разделить чужие трудности</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Каждый должен уметь позаботиться о себе</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>23. Я очень старательный во всех делах человек</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не очень усердствую на работе</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>24. У меня часто выступает холодный пот и дрожат руки</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я редко испытывал напряжение, сопровождаемое дрожью в теле</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>25. Мне нравится мечтать</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я редко увлекаюсь фантазиями</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>26. Часто случается, что я руковожу, отдаю распоряжения другим людям</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я предпочитаю, чтобы кто-то другой брал в свои руки руководство</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>27. Я предпочитаю сотрудничать с другими, чем соперничать</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Без соперничества общество не могло бы развиваться</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>28. Я серьезно и прилежно отношусь к работе</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я стараюсь не брать дополнительные обязанности на работе</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>29. В необычной обстановке я часто нервничаю</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я легко привыкаю к новой обстановке</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>30. Иногда я погружаюсь в глубокие размышления</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не люблю тратить свое время на размышления</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>31. Мне нравится общаться с незнакомыми людьми</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не очень общительный человек</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>32. Большинство людей добры от природы</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я думаю, что жизнь делает некоторых людей злыми</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>33. Люди часто доверяют мне ответственные дела</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Некоторые считают меня безответственным</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>34. Иногда я чувствую себя одиноко, тоскливо и все валится из рук</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Часто, что-либо делая, я так увлекаюсь, что забываю обо всем</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>35. Я хорошо знаю, что такое красота и элегантность</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Мое представление о красоте такое же, как и у других</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>36. Мне нравится приобретать новых друзей и знакомых</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я предпочитаю иметь только несколько надежных друзей</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>37. Люди, с которыми я общаюсь, обычно мне нравятся</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Есть такие люди, которых я не люблю</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>38. Я требователен и строг в работе</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Иногда я пренебрегаю своими обязанностями</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>39. Когда я сильно расстроен, у меня тяжело на душе</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>У меня очень редко бывает мрачное настроение</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>40. Музыка способна так захватить меня, что я теряю чувство времени</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Драматическое искусство и балет кажутся мне скучными</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>41. Я люблю находиться в больших и веселых компаниях</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я предпочитаю уединение</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>42. Большинство людей честные, и им можно доверять</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Иногда я отношусь подозрительно к другим людям</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>43. Я обычно работаю добросовестно</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Люди часто находят в моей работе ошибки</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>44. Я легко впадаю в депрессию</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Мне невозможно испортить настроение</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>45. Настоящее произведение искусства вызывает у меня восхищение</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я редко восхищаюсь совершенством настоящего произведения искусства</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>46. «Болея» на спортивных соревнованиях, я забываю обо всем</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не понимаю, почему люди занимаются опасными видами спорта</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>47. Я стараюсь проявлять чуткость, когда имею дело с людьми</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Иногда мне нет дела до интересов других людей</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>48. Я редко делаю необдуманно то, что хочу сделать</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я предпочитаю принимать решения быстро</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>49. У меня много слабостей и недостатков</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>У меня высокая самооценка</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>50. Я хорошо понимаю свое душевное состояние</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Мне кажется, что другие люди менее чувствительны, чем я</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>51. Я часто игнорирую сигналы, предупреждающие об опасности</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я предпочитаю избегать опасных ситуаций</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>52. Радость других я разделяю как собственную</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не всегда разделяю чувства других людей</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>53. Я обычно контролирую свои чувства и желания</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Мне трудно сдерживать свои желания</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>54. Если я терплю неудачу, то обычно обвиняю себя</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Мне часто «везет», и обстоятельства редко бывают против меня</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>55. Я верю, что чувства делают мою жизнь содержательнее</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я редко обращаю внимание на чужие переживания</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>56. Мне нравятся карнавальные шествия и демонстрации</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Мне не нравится находиться в многолюдных местах</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>57. Я стараюсь поставить себя на место другого человека, чтобы его понять</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не стремлюсь понять все нюансы переживаний других людей</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>58. В магазине я обычно долго выбираю то, что надумал купить</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Иногда я покупаю вещи импульсивно</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>59. Иногда я чувствую себя жалким человеком</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Обычно я чувствую себя нужным человеком</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>60. Я легко «вживаюсь» в переживания вымышленного героя</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Приключения киногероя не могут изменить мое душевное состояние</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>61. Я чувствую себя счастливым, когда на меня обращают внимание</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я скромный человек и стараюсь не выделяться среди людей</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>62. В каждом человеке есть нечто, за что его можно уважать</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я еще не встречал человека, которого можно было бы уважать</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>63. Обычно я хорошо думаю, прежде чем действую</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не люблю продумывать заранее результаты своих поступков</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>64. Часто у меня бывают взлеты и падения настроения</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Обычно у меня ровное настроение</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>65. Иногда я чувствую себя фокусником, подшучивающим над людьми</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Люди часто называют меня скучным, но надежным человеком</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>66. Я привлекателен для лиц противоположного иола</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Некоторые считают меня обычным и неинтересным человеком</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>67. Я всегда стараюсь быть добрым и внимательным с каждым человеком</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Некоторые люди думают, что я самонадеянный и эгоистичный</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>68. Перед путешествием я намечаю точный план</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не могу понять, зачем люди строят такие детальные планы</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>69. Мое настроение легко меняется на противоположное</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я всегда спокоен и уравновешен</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>70. Я думаю, что жизнь – это азартная игра</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Жизнь – это опыт, передаваемый последующим поколениям</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>71. Мне нравится выглядеть вызывающе</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1;</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>В обществе я обычно не выделяюсь поведением и модной одеждой</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>72. Некоторые говорят, что я снисходителен к окружающим</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Говорят, что я часто хвастаюсь своими успехами</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>73. Я точно и методично выполняю свою работу</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я предпочитаю «плыть по течению», доверяя своей интуиции</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>74. Иногда я бываю настолько взволнован, что даже плачу</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Меня трудно вывести из себя</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="293">
+<p>75. Иногда я чувствую, что могу открыть в себе нечто новое</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-2</p>
+</td>
+<td valign="top" width="25">
+<p align="center">-1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">0</p>
+</td>
+<td valign="top" width="25">
+<p align="center">1</p>
+</td>
+<td valign="top" width="25">
+<p align="center">2</p>
+</td>
+<td valign="top" width="283">
+<p>Я не хотел бы ничего в себе менять</p>
+</td>
+</tr>
+</tbody>
+</table>
