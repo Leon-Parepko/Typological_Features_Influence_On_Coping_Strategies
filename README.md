@@ -1,0 +1,1 @@
+# Typological_Features_Influence_On_Coping_Strategies
